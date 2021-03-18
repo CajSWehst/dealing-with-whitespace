@@ -44,3 +44,12 @@ article ol {
   font-weight: normal;
   margin-left: -1.3rem;
 }
+
+blockquote {
+  color: #555;
+  font-size: 1.125rem;
+}
+
+.quote {
+  color: #222;
+}
